@@ -1,5 +1,5 @@
 # Hi, I’m James, you can call me Jimmy 👋 
-Junior Fullstack Web Developer 🧑🏽‍💻
+**Junior Fullstack Web Developer** 🧑🏽‍💻
 
 
 <!---
