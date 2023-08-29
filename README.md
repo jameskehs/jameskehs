@@ -1,4 +1,4 @@
-# Hi, I’m James, you can call me Jimmy 👋
+# Hi, I’m Jim 👋
 
 **Junior Fullstack Web Developer** 🧑🏽‍💻
 
